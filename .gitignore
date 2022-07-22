@@ -1,0 +1,38 @@
+steam_api64.dll
+steam_appid.txt
+ProjectSettings/
+Temp/
+UnityPackageManager/
+Library/
+build/
+Assets/*
+
+!Assets/Editor.meta
+!Assets/Editor/
+Assets/Editor/*
+!Assets/Editor/Resources.meta
+!Assets/Editor/Resources/
+
+Manual/Template Manual.html
+Manual/css/
+Manual/font/
+Manual/img/*
+!Manual/img/Component/
+Manual/img/Component/Module Name.svg
+Manual/img/Component/Memory.svg
+Manual/js/*
+Manual/pdfs/*
+!Manual/pdfs/Modules
+Manual/pdfs/Modules/*
+
+Assembly-CSharp*
+/*.sln
+obj/
+Models/*
+
+# Forget Fractal
+!Assets/ForgetFractal.meta
+!Assets/ForgetFractal/
+!Manual/img/Forget Fractal/
+!Manual/js/Forget Fractal/
+!Manual/pdfs/Modules/Forget Fractal.pdf
